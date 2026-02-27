@@ -1,0 +1,7 @@
+.env
+canvas_state.json
+*.pyc
+__pycache__
+venv
+.vscode
+.idea
